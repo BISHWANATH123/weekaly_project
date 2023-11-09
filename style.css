@@ -1,0 +1,506 @@
+*{
+    margin: 0px;
+   
+    
+    font-family: var(--font-heading-family);
+    border: border-box;
+}
+
+.nav-announcement{
+    height: 35px;
+    background-color: #0f1111;
+    color: #ffffff;
+    display: flex;
+    padding: 5px;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-text{
+    display: block;
+    font-size: 14px;
+   text-align: center;
+   color: #e6efef;
+ 
+   
+} 
+
+
+
+
+
+/* @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ */
+
+
+.navbar{
+
+   /* /* background-color: #ffffff; */
+    /* width: 100%; */
+    /* height: 50px; */
+    /* padding: 0px 15px 10px; */
+    /* border: 2px solid red;
+    */ */
+
+}
+
+.nav-search{
+    display: flex;
+    /* text-decoration: underline; */
+    width: 100%;
+    height: 40px;
+    /* justify-content: center; */
+    color: #e6efef;
+    /* gap: 10px; */
+    align-items: center;
+    justify-content: space-evenly;
+    /* border: 2px solid green; */
+
+}
+
+.search-icon{
+    color: #e6efef;
+    display: flex;
+    gap: 8px;
+    
+}
+
+.icon{
+    color: #e6efef;
+    justify-content: center;
+    align-items: center;
+    font-size:1rem;
+}
+
+.search-input{
+    color: #e6efef;
+    width:200px;
+    font-size: 1rem;
+    border:none;
+    /* gap: 10px; */
+}
+
+.image-icon{
+    background-size: cover;
+    color: #e6efef;
+    
+    align-items: center;
+    height: 20px;
+   
+    
+}
+
+.bag{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #e6efef;
+}
+.bag-user{
+    margin: 25px;
+    color: #e6efef;
+}
+
+ul a{
+    display: inline;
+    margin: 15px;
+    font-size: x-small;
+    color: #e6efef;
+    
+    
+}
+
+.navbar ul{
+    text-align: center;
+    width: 100%;
+    justify-content: center;
+    margin-top: 30px;
+    display: flex;
+    
+    
+}
+
+
+
+.nav-pic{
+  background-image: url("https://bellavitaorganic.com/cdn/shop/files/Hero-Banners---Desktop_Final.jpg?v=1693906500&width=1920");
+  
+  
+  background-size: cover;
+    width: 100%;
+    align-items: center;
+    height: 80vh;
+  
+
+}
+
+.offer-pic{
+    height: 200px;
+    width: 100%;
+    margin-top: 10px;
+
+}
+  .divh3 h3{
+    font-weight: 500;
+    font-size: xx-large;
+    text-align: center;
+    /* justify-content: center; */
+    /* border: 2px solid black; */
+    margin-top: 110px;
+    background-color: #e6efef;
+    
+}
+
+.content{
+    display:flex ;
+    height: 380px;
+    width: 100%;
+    /* border: 2px solid red; */
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+    
+   
+
+}
+.contest1{
+    height: 380px;
+   
+    width: 95%;
+}
+
+.contest2{
+    height: 380px;
+    
+    width: 550px;
+}
+.new-update{
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+    align-items: center;
+
+    
+}
+
+.new-update h3{
+    
+    font-size: x-large;
+    font-weight: 400;
+    margin: 30px;
+    /* border: 2px solid black; */
+   
+}
+.item-div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+}
+
+.button1{
+    background-color: blueviolet;
+    width: 150px;
+    text-align: center;
+    color:#e6efef
+
+
+}
+.button2{
+    background-color:goldenrod;
+    margin: 5px;
+    width: 50px;
+    text-align: center;
+    color:#e6efef
+}
+.item-pic{
+    height: 230px;
+   
+}
+
+.button3{
+    text-align: center;
+    height: 50px;
+    width: 230px;
+   
+
+}
+.button-div{
+    text-align: center;
+    margin: 30px;
+
+}
+
+.pic-5{
+    height: 470px;
+    width: 100%;
+}
+
+.luxury{
+    text-align: center;
+    margin: 60px;
+   /* border: 2px solid red; */
+   height: 30px;
+
+}
+.luxury h3{
+    text-align: center;
+    font-size:xx-large;
+    font-weight: 200;
+}
+.lux p{
+    text-align: center;
+}
+.pic-6{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+.perfume-item{
+   
+   
+    display:flex;
+    margin:80px
+    align-items: center;
+    justify-content: center;
+
+}
+.child-per{
+    margin: 50px;
+}
+.perfume{
+    height: 600px;
+    /* margin: 20px; */
+
+}
+.button-7{
+    background-color:rgb(236, 144, 144);
+    margin: 20px;
+    width: 50px;
+    text-align: center;
+    color:#e6efef
+
+}
+.button-8{
+    background-color:rgb(125, 241, 125);
+    margin-bottom: 70px;
+    margin-left: 20px;
+    width: 70px;
+    text-align: center;
+    color:#e6efef
+
+}
+.perfume-2{
+    height: 280px;
+}
+.info{
+   
+    height: 180px;
+    width: 300px;
+    margin-bottom: 60px;
+    /* margin-left: 20px; */
+}
+.info p{
+    color:black;
+   
+    width: 250px;
+    font-size:0.65rem;
+    
+}
+.info .rupee{
+    font-size:0.99rem;
+   
+    text-decoration: overline;
+
+}
+.info button{
+    margin: 10px;
+    background-color: black;
+    text-align: center;
+    width: 250px;
+    height: 40px;
+    color: #e6efef;
+    
+}
+.crazy{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+
+}
+.crazy-item{
+    height: 290px;
+    width: 310px;
+    margin: 20px;
+    
+}
+
+.crazy-para p{
+    text-align: center;
+   
+}
+
+
+
+.big-pic{
+    background-image: url("https://cdn.shopify.com/s/files/1/1486/7804/files/Untitled-3.gif?v=1536880134");
+    background-size: cover;
+    width: 100%;
+    /* align-items: center; */
+    height: 500px;
+    margin: 40px;
+    /*  */
+    margin-top: 100px;
+    
+}
+.banner-1{
+    text-align: center;
+    color: #ffffff;
+    width: 370px;
+   
+    margin:auto;
+    padding: 30px;
+    font-size: xx-large;
+    font-weight: 300;
+    font-family:  sans-serif;
+    justify-content: center;
+
+}
+.big-pic p{
+    text-align: center;
+    color: #e6efef;
+    width: 500px;
+    margin: auto;
+    font-size: x-large;
+}
+.button-div button{
+    
+    font-size: 30px;
+
+
+    text-align: center;
+    height: 50px;
+    width: 230px;
+    
+   
+    
+}
+.CRUELTY{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 20px;
+    font-weight: 0.85rem;
+}
+.CRUELTY-free{
+    height: 150px;
+    width: 240px;
+    font-weight: 200;
+   
+
+}
+.cell-phone{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+.phone-1{
+  margin-left: 0px;
+  height: 450px;
+  /* box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px; */
+}
+.phone-2{
+    height:80vh ;
+    width: 500px;
+    margin-left: 80px;
+   
+}
+.download-link{
+    /* display: flex; */
+    line-height: 30px;
+}
+
+.AVAILABLE{
+    margin-top: 70px;
+   
+}
+.download-link h3{
+    color: rgb(42, 58, 197);
+    height: 80px;
+    width: 240px;
+   
+    font-size: xx-large;
+    font-weight: 600;
+    opacity: 0.7;
+}
+.last-pic{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+
+}
+
+.pic-8{
+    height: 250px;
+    width: 270px;
+
+}
+
+.main-foot{
+    background-color: #222f3d;
+    height: 800px;
+
+}
+
+.foot-pannel{
+   
+    color: white;
+    
+    display: flex;
+    justify-content: space-evenly;
+}
+ul{
+    margin-top: 60px;
+}
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 20px;
+}
+.whatsapp{
+    height: 100px;
+    width: 100px;
+    margin-top: 400px;
+    background-color: #ffffff;
+    border-radius: 50%;
+
+}
+
+.main-food h3{
+    /* text-align: center; */
+   
+    color: #ffffff;
+    font-size: 0.95rem;
+    height: 60px;
+    width: 400px;
+    text-align: center;
+    margin-left: 30px;
+    font-weight: 200;
+
+   } 
+   .para p{
+    color: #e6efef;
+    font-size: 0.85rem;
+    margin-left: 60px;
+    text-align: center;
+    margin-right: 40px;
+    height: 250px;
+    line-height: 30px;
+   
+   }
+
+
